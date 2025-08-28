@@ -1,0 +1,6 @@
+@mangos.services.CoupanAPI_HostAddress = http://localhost:5036
+
+GET {{mangos.services.CoupanAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

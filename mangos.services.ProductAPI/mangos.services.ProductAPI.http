@@ -1,0 +1,6 @@
+@mangos.services.ProductAPI_HostAddress = http://localhost:5141
+
+GET {{mangos.services.ProductAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
